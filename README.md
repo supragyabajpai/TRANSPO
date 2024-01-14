@@ -1,6 +1,6 @@
 # TRANSPO 
 
-![alt text](https://github.com/supragyabajpai/TRANSPO/blob/main/Pictures/TranspoLogo.jpg)
+![alt text](https://github.com/supragyabajpai/TRANSPO/blob/main/Pictures/TranspoLogo_1.jpg)
 
 ## Problem:  
 •	Manipal University Jaipur is situated around 15 – 18 kilometres away from the city, in a remote location.
@@ -65,7 +65,7 @@ A mobile app which will allow students to book a cab and connect with local driv
 
 •	Got incubated.  
 
-![alt text](https://github.com/supragyabajpai/TRANSPO/blob/main/Pictures/office_space.jpg)
+![alt text](https://github.com/supragyabajpai/TRANSPO/blob/main/Pictures/_1.jpg)
 
 •	Began working on product analysis using data science and focused on customer retention through improved services.
 
